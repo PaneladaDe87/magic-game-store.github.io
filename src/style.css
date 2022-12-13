@@ -1,4 +1,7 @@
 * {
     background-color: rgb(40, 40, 40);
-    text-color: rgb(255, 0, 0);
+}
+
+body {
+    color: white;
 }
